@@ -61,7 +61,7 @@ class LIS {
                            + "\n");
     }
 }
-/*This code is contributed by Rajat Mishra*/
+/
 Output
 Length of lis is 5
 Complexity Analysis: 
